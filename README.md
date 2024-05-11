@@ -1,9 +1,9 @@
-# Projeto-Imer-Gemini
+# Gerando ganchos para aventuras de RPG!
 Projeto da Imersão Inteligência Artificial 2ª Edição da Alura.
 
 ## 💭 Motivação
 
-Decidi criar este projeto devido a uma necessidade própria: costumo mestrar diversas aventuras *one-shot* para grupos iniciantes, e a parte de iniciar uma aventura geralmente requer planejamento prévio, especialmente na construção de cenários, personagens, etc. A capacidade generativa do Gemini foi uma das características mais atrativas para ajudar na geração de conteúdo, auxiliando na descrição de ambientes e personagens. Em outras palavras, me ajudaria a economizar tempo de planejamento, pelo menos para *one-shots* e inícios de aventuras 😅.
+Decidi criar este projeto devido a uma necessidade própria: costumo mestrar diversas aventuras *one-shot* para grupos iniciantes, e a parte de iniciar uma aventura geralmente requer planejamento prévio, especialmente na construção de cenários, personagens, etc. A capacidade generativa do Gemini foi uma das características mais atrativas para ajudar na geração de conteúdo, auxiliando na descrição de ambientes e personagens. Em outras palavras, me ajudaria a economizar tempo de planejamento, pelo menos para *one-shots* e inícios de aventuras 😅. O modelo também foi instruído a gerar descrições baseados no cenário de Arton, cenário brasileiro do sistema Tormenta 🇧🇷! 
 
 ## ❗ Como funciona
 
