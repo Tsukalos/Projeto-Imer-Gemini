@@ -9,3 +9,5 @@ Decidi criar este projeto devido a uma necessidade própria: costumo mestrar div
 ## ❗ Como funciona
 
 Utilizei a abordagem de *few-shot prompting*, incluindo exemplos no início de cada prompt para ditar a estrutura geral do markdown. Alguns exemplos foram gerados previamente com o próprio Gemini. Inicialmente, usava o `gemini-1.5-pro-latest`, mas acredito que o usei demais em outros projetos e recebi muitos *timeouts*. Mudei para o `gemini-1.0` e, apesar de fornecer descrições menos longas que o `1.5-pro-latest`, especialmente em características e detalhes, ele tem um desempenho razoável para o projeto. Para testar, basta mudar o modelo utilizado.
+
+[Acesse o notebook aqui](Gerador_ganchos.ipynb)
