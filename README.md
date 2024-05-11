@@ -1,4 +1,4 @@
-# Gerando ganchos para aventuras de RPG!
+# Gerando ganchos para aventuras de RPG! ⚔️🧙🏻‍♂🐲
 Projeto da Imersão Inteligência Artificial 2ª Edição da Alura.
 
 ## 💭 Motivação
