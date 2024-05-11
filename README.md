@@ -1,3 +1,4 @@
+![ícone de um d20](/128px-D20_icon.png)
 # Gerando ganchos para aventuras de RPG! ⚔️🧙🏻‍♂🐲
 Projeto da Imersão Inteligência Artificial 2ª Edição da Alura.
 
